@@ -133,4 +133,4 @@ curl -X POST http://localhost:8080/api/payrolls \
 **Harsh Sonkar**
 Employee Management & Payroll System with CDI, JPA, and REST.
 
-```
+---
